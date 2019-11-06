@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/head_mesh.obj</file>
+        <file>assets/head_texture.png</file>
+    </qresource>
+</RCC>
